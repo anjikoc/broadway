@@ -43,6 +43,7 @@ a:link, a:visited {
 }
 
 .footer {
+  text-align:left;
   color: white;
   background-color: dimgray;
 }
